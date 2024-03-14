@@ -17,9 +17,9 @@
 
 ###
 <div align="center">
-   <img src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif"/>
+   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
-<br/>
+
 
 <h2 align="left" > Skills </h2>
 
@@ -46,7 +46,7 @@
    <img src="https://www.cdnlogo.com/logos/l/21/linux-tux.svg" height="40" alt="Linux" />
 </div>
 
-<br/>
+
 
 
 
