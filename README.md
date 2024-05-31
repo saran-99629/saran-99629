@@ -1,12 +1,9 @@
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
-</div>
+
 <div>
   <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcxMzg4MTksIm5iZiI6MTcxNzEzODUxOSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTMxVDA2NTUxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5NjRiYjc5Mzc2ZDdkMDAxODA0ZTRkYmUyZDMyMTFiMDMzOTgxZmU1OGI5MGMwN2IzNTYyY2VkNzE5YzVjNmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5LoFrcEyZNJZo6lth0-Yx3dSNk9RiQZe7Hc1LWh7XjY"/>
 </div>
-###
 
 <h2 align="center">Hi 👋! I m SARAN  <br>Welcome to My GitHub</h2>
 
@@ -97,9 +94,9 @@
 <img src="https://raw.githubusercontent.com/saran-99629/saran-99629/output/snake.svg" alt="Snake animation" />
 
 ###
-<div align ="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br><br>
+<div align="center">
+  <img height="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
+</div>
 
 <div/>
 
